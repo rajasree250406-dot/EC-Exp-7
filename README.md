@@ -6,9 +6,21 @@
 <img width="885" height="633" alt="image" src="https://github.com/user-attachments/assets/1eb504bf-ffbd-45a7-8ede-d0593601d20a" />
 
 
+## CIRCUIT DIAGRAM
+
+<img width="1063" height="1600" alt="image" src="https://github.com/user-attachments/assets/db16267a-d24c-445a-8474-cba713a42765" />
+
+
 ## Tabulations 
+
+<img width="1218" height="1600" alt="image" src="https://github.com/user-attachments/assets/3b20e6c0-efbc-415b-8a5a-910fcf21e28a" />
+<img width="990" height="1600" alt="image" src="https://github.com/user-attachments/assets/72425dc0-c22c-40f2-a96b-bc7059fe4c5e" />
+
+
 
 ## Semilog Graph
 
 <img width="845" height="246" alt="image" src="https://github.com/user-attachments/assets/f02add25-358b-4b00-902c-8ad7d06fe7ec" />
+<img width="1279" height="1600" alt="image" src="https://github.com/user-attachments/assets/67359d24-ee86-458c-81cd-cd8588fa8428" />
+
 
